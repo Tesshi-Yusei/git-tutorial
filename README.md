@@ -5,3 +5,5 @@ README
 # XCodeで開いたｱ
 
  - feature-A
+
+ - fix-B
